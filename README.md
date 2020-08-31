@@ -10,3 +10,9 @@ Rewrite to Typescript
 
 # Copy Code?
 If you want the code just download it and give me credits please?
+
+
+#### 
+```js
+Move Config.ts to Client/Utils folder
+```
